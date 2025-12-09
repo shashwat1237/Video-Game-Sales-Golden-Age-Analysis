@@ -1,3 +1,4 @@
+Kaggle dataset link - https://www.kaggle.com/datasets/gregorut/videogamesales
 # Video Game Sales "Golden Age" Analysis
 The aim is to predict the global sales of a video game.
 
